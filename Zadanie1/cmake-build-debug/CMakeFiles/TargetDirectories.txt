@@ -1,0 +1,3 @@
+F:/Klasa III/Programowanie Obiektowe/Zadanie1/cmake-build-debug/CMakeFiles/Zadanie1.dir
+F:/Klasa III/Programowanie Obiektowe/Zadanie1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Klasa III/Programowanie Obiektowe/Zadanie1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
